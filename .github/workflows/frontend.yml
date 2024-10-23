@@ -10,7 +10,7 @@ jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
     env: 
-        BlobStorageAccountName: jiangrenstorage
+        BlobStorageAccountName: jrstorageforstaticweb
 
     steps:
     # Step 1: Checkout the repository
